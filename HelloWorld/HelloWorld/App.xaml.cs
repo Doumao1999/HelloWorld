@@ -21,7 +21,7 @@ namespace HelloWorld
 
             Current.MainPage = new NavigationPage(new HomePage())
             {
-                Title = "Hello World!"
+                Title = "Hello World! + Server"
                 // change in server
             };
 
