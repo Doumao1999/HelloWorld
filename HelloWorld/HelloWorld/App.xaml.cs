@@ -23,6 +23,7 @@ namespace HelloWorld
             {
                 Title = "Hello World! + Server"
                 // change in server
+                // add local
             };
 
         }
