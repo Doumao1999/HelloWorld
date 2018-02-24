@@ -9,7 +9,7 @@ namespace HelloWorld.Views
     {
 
         public HelloPage()
-        {
+        {// test
             InitializeComponent();
         }
 
