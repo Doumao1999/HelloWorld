@@ -6,8 +6,6 @@
 	<string>HelloWorld.iOS</string>
 	<key>CFBundleName</key>
 	<string>HelloWorld.iOS</string>
-	<key>CFBundleIdentifier</key>
-	<string>com.companyname.HelloWorld</string>
 	<key>CFBundleShortVersionString</key>
 	<string>1.0</string>
 	<key>CFBundleVersion</key>
@@ -40,5 +38,7 @@
 		<string>UIInterfaceOrientationLandscapeLeft</string>
 		<string>UIInterfaceOrientationLandscapeRight</string>
 	</array>
+	<key>CFBundleIdentifier</key>
+	<string>us.AUTOMAP</string>
 </dict>
 </plist>
